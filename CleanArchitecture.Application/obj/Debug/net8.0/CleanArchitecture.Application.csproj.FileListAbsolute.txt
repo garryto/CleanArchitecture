@@ -1,0 +1,15 @@
+C:\DATA\LITETHINKING\CleanArchitectureExample\CleanArchitecture.Application\bin\Debug\net8.0\CleanArchitecture.Application.deps.json
+C:\DATA\LITETHINKING\CleanArchitectureExample\CleanArchitecture.Application\bin\Debug\net8.0\CleanArchitecture.Application.dll
+C:\DATA\LITETHINKING\CleanArchitectureExample\CleanArchitecture.Application\bin\Debug\net8.0\CleanArchitecture.Application.pdb
+C:\DATA\LITETHINKING\CleanArchitectureExample\CleanArchitecture.Application\bin\Debug\net8.0\CleanArchitecture.Domain.dll
+C:\DATA\LITETHINKING\CleanArchitectureExample\CleanArchitecture.Application\bin\Debug\net8.0\CleanArchitecture.Domain.pdb
+C:\DATA\LITETHINKING\CleanArchitectureExample\CleanArchitecture.Application\obj\Debug\net8.0\CleanArchitecture.Application.csproj.AssemblyReference.cache
+C:\DATA\LITETHINKING\CleanArchitectureExample\CleanArchitecture.Application\obj\Debug\net8.0\CleanArchitecture.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\DATA\LITETHINKING\CleanArchitectureExample\CleanArchitecture.Application\obj\Debug\net8.0\CleanArchitecture.Application.AssemblyInfoInputs.cache
+C:\DATA\LITETHINKING\CleanArchitectureExample\CleanArchitecture.Application\obj\Debug\net8.0\CleanArchitecture.Application.AssemblyInfo.cs
+C:\DATA\LITETHINKING\CleanArchitectureExample\CleanArchitecture.Application\obj\Debug\net8.0\CleanArchitecture.Application.csproj.CoreCompileInputs.cache
+C:\DATA\LITETHINKING\CleanArchitectureExample\CleanArchitecture.Application\obj\Debug\net8.0\CleanArchitecture.Application.csproj.CopyComplete
+C:\DATA\LITETHINKING\CleanArchitectureExample\CleanArchitecture.Application\obj\Debug\net8.0\CleanArchitecture.Application.dll
+C:\DATA\LITETHINKING\CleanArchitectureExample\CleanArchitecture.Application\obj\Debug\net8.0\refint\CleanArchitecture.Application.dll
+C:\DATA\LITETHINKING\CleanArchitectureExample\CleanArchitecture.Application\obj\Debug\net8.0\CleanArchitecture.Application.pdb
+C:\DATA\LITETHINKING\CleanArchitectureExample\CleanArchitecture.Application\obj\Debug\net8.0\ref\CleanArchitecture.Application.dll

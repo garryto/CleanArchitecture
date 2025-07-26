@@ -1,0 +1,11 @@
+C:\DATA\LITETHINKING\CleanArchitectureExample\CleanArchitecture.Domain\bin\Debug\net8.0\CleanArchitecture.Domain.deps.json
+C:\DATA\LITETHINKING\CleanArchitectureExample\CleanArchitecture.Domain\bin\Debug\net8.0\CleanArchitecture.Domain.dll
+C:\DATA\LITETHINKING\CleanArchitectureExample\CleanArchitecture.Domain\bin\Debug\net8.0\CleanArchitecture.Domain.pdb
+C:\DATA\LITETHINKING\CleanArchitectureExample\CleanArchitecture.Domain\obj\Debug\net8.0\CleanArchitecture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\DATA\LITETHINKING\CleanArchitectureExample\CleanArchitecture.Domain\obj\Debug\net8.0\CleanArchitecture.Domain.AssemblyInfoInputs.cache
+C:\DATA\LITETHINKING\CleanArchitectureExample\CleanArchitecture.Domain\obj\Debug\net8.0\CleanArchitecture.Domain.AssemblyInfo.cs
+C:\DATA\LITETHINKING\CleanArchitectureExample\CleanArchitecture.Domain\obj\Debug\net8.0\CleanArchitecture.Domain.csproj.CoreCompileInputs.cache
+C:\DATA\LITETHINKING\CleanArchitectureExample\CleanArchitecture.Domain\obj\Debug\net8.0\CleanArchitecture.Domain.dll
+C:\DATA\LITETHINKING\CleanArchitectureExample\CleanArchitecture.Domain\obj\Debug\net8.0\refint\CleanArchitecture.Domain.dll
+C:\DATA\LITETHINKING\CleanArchitectureExample\CleanArchitecture.Domain\obj\Debug\net8.0\CleanArchitecture.Domain.pdb
+C:\DATA\LITETHINKING\CleanArchitectureExample\CleanArchitecture.Domain\obj\Debug\net8.0\ref\CleanArchitecture.Domain.dll
